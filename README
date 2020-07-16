@@ -1,2 +1,4 @@
-This is the CloudFormation from https://athena-in-action.workshop.aws/30-basics/306-workgroups.html
-I need to remove the labs which depend on adding IAM users.
+This is a fork of the CloudFormation from https://athena-in-action.workshop.aws/30-basics/306-workgroups.html
+
+I removed the labs which depend on adding IAM users.
+
