@@ -1,8 +1,6 @@
-# Purpose:  Creates Athena Workgroups, Named Queries, IAM Users via AWS CloudFormation
-#===============================================================================
 AWSTemplateFormatVersion: "2010-09-09"
 Description: |
-  Athena Immersion Day - Creates Athena Workgroups, Named Queries, IAM Users
+  Athena Immersion Day - Creates Athena Named Queries and an S3 bucket.
 
 Resources:
   AthenaWorkShopBucket:
